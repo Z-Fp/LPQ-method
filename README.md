@@ -1,0 +1,1 @@
+# LPQ-method
